@@ -112,4 +112,12 @@ public class BasicJava{
         return y;
     }
 
+    // SOLUTION FOR FINDING MAX, MIN and AVG.
+
+    // public static void MaxMinAverage(int[] nums) {
+	// 	int min = FindMin(nums); // Creatng this methods before and using them here.
+	// 	int max = FindMax(nums); // Creatng this methods before and using them here.
+	// 	double avg = GetAverage(nums); // Creatng this methods before and using them here.
+	// 	System.out.println(String.format("Max: %d, Min: %d, Average: %f", max, min, avg));
+	// }
 }
